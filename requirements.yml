@@ -1,5 +1,4 @@
 - src: geerlingguy.repo-epel
-- src: weareinteractive.nginx
 - src: geerlingguy.nginx
 - src: joshualund.golang
 - name: weareinteractive.nginx
