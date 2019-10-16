@@ -1,4 +1,7 @@
 - src: geerlingguy.repo-epel
-- src: franklinkim.nginx
+- src: weareinteractive.nginx
 - src: geerlingguy.nginx
 - src: joshualund.golang
+- name: weareinteractive.nginx
+  src: https://github.com/rustx/weareinteractive.nginx
+  version: tc-changes
